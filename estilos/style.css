@@ -28,6 +28,13 @@ strong {
   color: blueviolet;
 }
 
+.button {
+  background-color: hsl(118, 91%, 47%);
+  border-radius: 10px;
+  width: 300px;
+  cursor: pointer;
+}
+
 a {
   color:rgb(34, 4, 168);
 }
